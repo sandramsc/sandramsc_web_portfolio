@@ -1,27 +1,44 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+<h1 align="center">sandra's Dev portfolio website</h1>
 
-# Demo
-- https://joncarter.netlify.app/
+## Table of Contents
 
-# Clone Project
-- https://github.com/SA7MAN/joncarter
+<details>
+<summary>sandra's Dev portfolio website</summary>
 
-# Features
-- Fully Responsive
-- Mobile Navigations
-- Animated elements on scroll
-- Smooth scrolling in each section.
-- Sticky Navigation on scrolling
-- and more ..
+- [Application Description](#application-description)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [How to use the app](#how-to-use-the-app)
+- [Author](#author)
+- [License](#license)
+
+</details>
+
+## Features
+
+- HOME
+- ABOUT
+- PROJECTS
+- SKILLS
+- BLOG
+- CONTACT
+
+## How to use the app
+
+**Step #1** - Clone the project
+
+```bash
+$ git clone https://github.com/sandramsc/dev_portfolio.git
+```
 
 
-# Credit
-- https://fonts.google.com/
-- https://line-awesome.com/
-- https://unsplash.com/
-- https://michalsnik.github.io/aos/
+## Author
 
+| Name            | Link                                   |
+| --------------- | -------------------------------------- |
+| Sandra Ashipala | https://linkedin.com/in/sandraashipala |
 
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
+## License
+
+[![GitLicense](https://img.shields.io/badge/License-Apache-lime.svg)](https://github.com/sandramsc/dev_portfolio/blob/main/LICENSE)
+
