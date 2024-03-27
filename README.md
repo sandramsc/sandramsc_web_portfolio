@@ -1,9 +1,9 @@
-<h1 align="center">sandra's Dev portfolio website</h1>
+<h1 align="center">Sandra's portfolio website</h1>
 
 ## Table of Contents
 
 <details>
-<summary>sandra's Dev portfolio website</summary>
+<summary>dev_portfolio</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
