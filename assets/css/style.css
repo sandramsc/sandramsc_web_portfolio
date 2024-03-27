@@ -5,7 +5,7 @@
     --color-heading: #F2E4E9;
     --color-base: #592E36;
     --color-base2: #590A2F;
-    --color-brand: #B29A39;
+    --color-brand: #d5c068;
     --color-brand2: #bca33d;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
@@ -190,11 +190,6 @@ img {
     height: 44px;
 }
 
-/* SOCIAL ICONS */
-.social-icons {
-
-}
-
 .social-icons a {
     width: 40px;
     height: 40px;
@@ -204,4 +199,56 @@ img {
     background-color: var(--color-base);
     border-radius: 100px;
     font-size: 24px;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex {
+    display: flex;
+}
+.mt-2 {
+    margin-top: .5rem;
+}
+.mr-1\.5 {
+    margin-right: .375rem;
+}
+.text-teal-300 {
+    --tw-text-opacity: 1;
+    color: rgb(213 192 104 / var(--tw-text-opacity));
+}
+.leading-5 {
+    line-height: 1.25rem;
+}
+.font-medium {
+    font-weight: 500;
+}
+.text-xs {
+    font-size: .75rem;
+    line-height: 1rem;
+}
+.py-1 {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+.px-3 {
+    padding-left: .75rem;
+    padding-right: .75rem;
+}
+
+.bg-teal-400\/10 {
+    background-color: rgba(242,228,233, .1);
+}
+.rounded-full {
+    border-radius: 9999px;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+ol, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
