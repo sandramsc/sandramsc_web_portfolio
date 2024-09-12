@@ -8,7 +8,6 @@
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
-- [How to use the app](#how-to-use-the-app)
 - [Author](#author)
 - [License](#license)
 
