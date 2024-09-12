@@ -23,14 +23,6 @@
 - BLOG
 - CONTACT
 
-## How to use the app
-
-**Step #1** - Clone the project
-
-```bash
-$ git clone https://github.com/sandramsc/dev_portfolio.git
-```
-
 
 ## Author
 
